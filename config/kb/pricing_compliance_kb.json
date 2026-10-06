@@ -1,0 +1,82 @@
+[
+  {
+    "id": "keihyo-005-2-01",
+    "title": "有利誤認表示 — Misrepresentation of advantageous price or trade terms",
+    "category": "advantageous_misrepresentation",
+    "source": "景品表示法第5条第2号",
+    "tags": ["discount", "price", "advantageous", "misrepresentation", "有利誤認"],
+    "content": "A representation about price or trade terms that gives consumers the impression of being significantly more advantageous than it actually is, or than a competitor's, without reasonable grounds, may fall under 有利誤認表示 (misrepresentation of advantageous terms) and violate Article 5 Item 2 of the 景品表示法 (Act against Unjustifiable Premiums and Misleading Representations). A price-comparison or discount claim against a named competitor is squarely the kind of representation this provision targets; the business making the claim carries the burden of being able to substantiate it on request."
+  },
+  {
+    "id": "keihyo-nijuu-kakaku-01",
+    "title": "二重価格表示 — Dual price display and discount claim substantiation",
+    "category": "discount_pricing",
+    "source": "不当な価格表示についての景品表示法上の考え方（消費者庁）",
+    "tags": ["discount", "reference price", "sale price", "dual pricing", "substantiation", "二重価格"],
+    "content": "A reference or 'was' price used in a discount or sale display must reflect a real selling price actually achieved for a reasonable, continuous period immediately before the comparison. Advertising a discount, limited-time sale, or price reduction against an inflated, stale, or fabricated reference price is an unjustifiable dual-price display and may violate the 景品表示法. Businesses must retain the underlying sales records substantiating the reference price before publishing the claim, and refresh the reference price whenever the selling price pattern changes."
+  },
+  {
+    "id": "keihyo-hikaku-koukoku-01",
+    "title": "比較広告の3要件 — Three conditions for lawful comparative advertising",
+    "category": "comparative_advertising",
+    "source": "比較広告に関する景品表示法上の考え方（消費者庁）",
+    "tags": ["comparative advertising", "competitor", "comparison", "price claim", "比較広告"],
+    "content": "Comparative advertising that names a competitor and claims a price or quality advantage is permitted under the 景品表示法 framework only when three conditions are met: the compared facts must be objectively provable and verifiable, the comparison method must be fair and use the same conditions or measurement basis for both parties, and the comparison points must be specifically and accurately indicated to the consumer. A 'X percent below competitor' price claim that omits the comparison basis, date, or verification method fails these conditions and risks a 有利誤認表示 finding."
+  },
+  {
+    "id": "keihyo-005-1-01",
+    "title": "優良誤認表示 — Misrepresentation of product quality or superiority",
+    "category": "quality_misrepresentation",
+    "source": "景品表示法第5条第1号",
+    "tags": ["quality", "superiority", "misrepresentation", "優良誤認"],
+    "content": "A representation about the quality, standard, or other content of goods or services that gives consumers the impression of being significantly better than it actually is, or than a competitor's, without reasonable grounds, may fall under 優良誤認表示 (misrepresentation of quality) and violate Article 5 Item 1 of the 景品表示法. This provision targets quality and performance claims specifically; a claim that is purely about price or trade terms is more commonly assessed under Article 5 Item 2 (有利誤認表示) instead, though a single advertisement can implicate both when it bundles a quality claim with a price claim."
+  },
+  {
+    "id": "keihyo-substantiation-01",
+    "title": "表示の裏付けとなる合理的根拠 — Reasonable-grounds substantiation duty",
+    "category": "substantiation",
+    "source": "景品表示法第7条第2項（不実証広告規制）",
+    "tags": ["substantiation", "evidence", "reasonable grounds", "合理的根拠"],
+    "content": "On request from the Consumer Affairs Agency, the business making a representation must submit materials substantiating the representation with reasonable grounds within 15 days; failure to submit adequate materials is deemed an unjustifiable representation under Article 7 Paragraph 2 (不実証広告規制, the unsubstantiated-representation regulation). Any comparative discount or price claim should have dated, verifiable substantiation records prepared and retained BEFORE publication, not assembled reactively after a claim is challenged."
+  },
+  {
+    "id": "keihyo-genteihyouji-01",
+    "title": "期間限定・数量限定表示の留意点 — Limited-time and limited-quantity claim cautions",
+    "category": "limited_time_offer",
+    "source": "景品表示法ガイドライン（期間限定表示）",
+    "tags": ["limited time", "sale period", "urgency", "quantity", "期間限定"],
+    "content": "A 'limited-time' or 'limited-quantity' claim attached to a discount or sale offer must be factually accurate: the stated period or quantity must be the real, intended limit, not an artificial urgency device. Advertising a sale as limited-time when the same discount is repeatedly extended or re-run without a genuine gap is itself capable of being an unjustifiable 有利誤認表示, independent of whether the underlying discount percentage is otherwise substantiated."
+  },
+  {
+    "id": "keihyo-sochi-kachoukin-01",
+    "title": "措置命令・課徴金制度の概要 — Corrective orders and the surcharge (課徴金) system",
+    "category": "enforcement",
+    "source": "景品表示法第7条・第8条",
+    "tags": ["enforcement", "corrective order", "surcharge", "penalty", "課徴金"],
+    "content": "A confirmed violation of the 景品表示法 misrepresentation provisions may result in a corrective order (措置命令) requiring public correction, a statement to affected consumers, and recurrence-prevention measures, and separately a surcharge payment (課徴金) calculated as a percentage of the relevant sales generated during the violation period. A business that voluntarily reports its own violation and takes corrective action before an investigation begins may qualify for a reduced surcharge."
+  },
+  {
+    "id": "keihyo-jishu-shinsa-01",
+    "title": "自主基準・表示前レビュー体制の推奨 — Recommended pre-publication review controls",
+    "category": "governance",
+    "source": "業界自主基準・社内表示審査体制の手引き",
+    "tags": ["governance", "review", "pre-publication", "internal control", "compliance"],
+    "content": "Businesses that regularly publish price-comparison or discount advertising are advised to maintain an internal pre-publication review process: a designated compliance approver checks each comparison claim against the underlying evidence before it goes live, the substantiation records are filed and retained for a defined retention period, and the review step is logged. This internal control does not replace legal review of a specific claim but materially reduces the risk of an unreviewed claim reaching consumers."
+  },
+  {
+    "id": "keihyo-web-ec-01",
+    "title": "ECサイトにおける価格表示の留意点 — Price-display cautions specific to EC storefronts",
+    "category": "discount_pricing",
+    "source": "通信販売の価格表示に関する景品表示法上の留意事項",
+    "tags": ["ec", "online", "price display", "e-commerce", "web", "discount"],
+    "content": "An EC storefront advertising a discount or price comparison must keep the comparison (reference) price display directly next to the current selling price — not on a separate page or behind an extra click — and must avoid an ambiguous 'reference price' label with no stated basis. The comparison basis (whose price, and as of when) should be disclosed near the discount badge itself, because an EC page is typically the consumer's only exposure to the claim, unlike a print advertisement that might carry supporting context elsewhere."
+  },
+  {
+    "id": "keihyo-soudan-madoguchi-01",
+    "title": "相談窓口・情報提供制度 — Consumer Affairs Agency pre-publication consultation",
+    "category": "governance",
+    "source": "景品表示法における相談制度の案内",
+    "tags": ["consultation", "consumer affairs agency", "governance", "pre-review"],
+    "content": "A business that is uncertain whether a planned price-comparison or discount advertisement complies with the 景品表示法 may seek informal pre-publication consultation with the Consumer Affairs Agency, an industry self-regulatory body, or outside counsel before the claim goes live. This is a practical corrective/preventive step distinct from the formal Article 7-2 substantiation-request process, and is generally the lowest-cost way to resolve genuine ambiguity in a borderline claim."
+  }
+]
